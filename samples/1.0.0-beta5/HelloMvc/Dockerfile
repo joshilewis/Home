@@ -1,3 +1,4 @@
+#version xyz
 FROM microsoft/aspnet:1.0.0-beta5
 
 COPY . /app
